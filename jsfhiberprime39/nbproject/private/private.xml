@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/NetBeans/jsfhiberprime39/src/java/coderbd/entity/Student.java</file>
+            <file>file:/G:/NetBeans/jsfhiberprime39/src/java/coderbd/service/StudentService.java</file>
+            <file>file:/G:/NetBeans/jsfhiberprime39/src/java/coderbd/util/NewHibernateUtil.java</file>
+            <file>file:/G:/NetBeans/jsfhiberprime39/web/index.xhtml</file>
+            <file>file:/G:/NetBeans/jsfhiberprime39/src/java/coderbd/serviceimpl/StudentServiceImpl.java</file>
+            <file>file:/G:/NetBeans/jsfhiberprime39/src/java/coderbd/controller/StudentController.java</file>
+            <file>file:/G:/NetBeans/jsfhiberprime39/src/java/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
